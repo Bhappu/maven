@@ -6,7 +6,6 @@
 
   <groupId>flipkart</groupId>
   <artifactId>bhavana</artifactId>
-  <packaging>war</packaging>
   <version>1.0</version>
 
   <name>bhavana</name>
